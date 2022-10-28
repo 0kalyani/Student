@@ -259,6 +259,9 @@ public class StudentResultPage extends javax.swing.JFrame {
         jLabel27.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jLabel27.setIcon(new javax.swing.ImageIcon(getClass().getResource("/projecManagementSystem/schoolPic2.png"))); // NOI18N
         jLabel27.setText("jLabel27");
+        jLabel27.setMaximumSize(new java.awt.Dimension(700, 560));
+        jLabel27.setMinimumSize(new java.awt.Dimension(700, 560));
+        jLabel27.setPreferredSize(new java.awt.Dimension(700, 560));
         getContentPane().add(jLabel27, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         pack();
